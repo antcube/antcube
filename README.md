@@ -22,3 +22,9 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Dancing: ...
 - Play: ...
 - Go for a walk: ...
+
+## Languages
+
+- Spanish
+- English
+- German
