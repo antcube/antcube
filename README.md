@@ -1,8 +1,3 @@
-<!-- Banner Pixel Art o imagen principal -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/4f/4e/d0/4f4ed06287e5d7726f41a9d2c4f1f48f.gif" alt="dev pixel art" width="600" />
-</div>
-
 <h1 align="center">Hola 👋, soy Jose Quispirina (antcube)</h1>
 
 <p align="center">
@@ -51,8 +46,7 @@ Una aplicación FullStack para gestionar productos, con funciones CRUD y consumo
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antcube&show_icons=true&theme=react" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=antcube&theme=react" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=antcube&theme=react&row=1&column=6" height="150"/>
 </p>
 
 ---
@@ -63,10 +57,10 @@ Una aplicación FullStack para gestionar productos, con funciones CRUD y consumo
 - 🌐 [Portafolio Web](https://josequispirina.netlify.app/)
 - 📧 quispirinajose@gmail.com
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150" />
-</div>
-
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="dev pixel art" width="500" height="200"/>
+</div>
 
 > "Siempre dispuesto a aprender, colaborar y crecer en este mundo digital. ¡Gracias por visitar mi perfil!" 🚀
